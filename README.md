@@ -45,7 +45,7 @@ Responsável por:
 ## 📷 Protótipo físico
 
 <p align="center">
-  <img src="docs/projeto.jpeg" width="600">
+  <img src="docs/PROJETO.jpeg" width="600">
 </p>
 
 ---
