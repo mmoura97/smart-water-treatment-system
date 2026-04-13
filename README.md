@@ -16,7 +16,7 @@
 ## Descrição
 
 <p align="center">
-<img src="imagens/capa.jpg" alt="NOME DO JOGO" border="0">
+<img src="docs/capa.jpg" alt="NOME DO JOGO" border="0">
   Projeto by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/2023-2-NADS1/Grupo6/tree/main">Matheus Moura da Silva e Murilo Dias da Silva</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
 </p>
 
@@ -63,7 +63,7 @@ Abaixo na configurção para desenvolvimento está os componentes que utilizamos
 ## 💻 Configuração para Desenvolvimento
 <br><br>
 <p align="center">
-<img src="imagens/PROJETO.jpeg" alt="NOME DO JOGO" border="0">
+<img src="docs/PROJETO.jpeg" alt="NOME DO JOGO" border="0">
 <br><br>
 
 No nosso projeto utilizamos os seguintes elementos de comunicação para conseguirmos realizar as leituras de dados e fazer com que o projeto cumpra com o objetico que nos o desenvolvemos.
