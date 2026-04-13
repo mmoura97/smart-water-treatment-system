@@ -30,7 +30,6 @@ const char* senha = "123456aa";
 AsyncWebServer server(80);
 
 
- 
 void setup() {
   pinMode(sensorPh, OUTPUT);
 
@@ -90,7 +89,7 @@ void loop() {
   Serial.println(leitura);
   turbidez = leitura; // manda o valor de leitura para o monitor serial
   delay(100000); //Intervalo de 0,5 segundos entre as leituras
- 
+
 
   if (leitura > 700) { //Se o valor de leitura analógica estiver acima de 700
 

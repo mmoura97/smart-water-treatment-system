@@ -37,6 +37,5 @@ void loop() {
   }else if(estadoReserv == LOW){
     digitalWrite(pinRele3, LOW); //boias e bombas
   }
- 
   
 }
