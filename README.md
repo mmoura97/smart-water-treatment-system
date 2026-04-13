@@ -71,7 +71,7 @@ O sistema disponibiliza uma interface web simples com dados em tempo real:
 ## 📄 Status
 
 ✅ Projeto funcional  
-🚧 Em melhoria contínua  
+🎓 Projeto acadêmico concluído
 
 ---
 
